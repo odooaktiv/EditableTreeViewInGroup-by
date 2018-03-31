@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 {
     'name': ' Editable Tree View in Group By',
-    'category': 'Tools',
+    'category': 'Extra Tools',
     'version': '10.0.0.1',
     'author':'Aktiv Software',
     'website': 'www.aktivsoftware.com',
