@@ -2,7 +2,7 @@
 {
     'name': ' Editable Tree View in Group By',
     'category': 'Tools',
-    'version': '10.0.0.1',
+    'version': '9.0.0.1',
     'author':'Aktiv Software',
     'website': 'www.aktivsoftware.com',
     'depends': ['web'],

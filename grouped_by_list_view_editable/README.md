@@ -1,12 +1,12 @@
 Uer Location App
------------------------------------
+------------------------------------
 
-Odoo Version : Odoo 10.0 Community
+Odoo Version : Odoo 9.0 Community
 
 
 Installation 
 -------------------------------------
-Install the Application => Apps -> Editable Tree View in Group By(grouped_by_list_view_editable)
+Install the Application => Apps ->  Editable Tree View in Group By(grouped_by_list_view_editable)
 
 
 Overview
