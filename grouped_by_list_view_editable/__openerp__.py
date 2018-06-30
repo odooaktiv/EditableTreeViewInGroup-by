@@ -3,7 +3,7 @@
     'name': ' Editable Tree View in Group By',
     'category': 'Extra Tools',
     'version': '9.0.0.1',
-    'author':'Aktiv Software',
+    'author': 'Aktiv Software',
     'website': 'www.aktivsoftware.com',
     'depends': ['web'],
     'description': """
