@@ -5,6 +5,7 @@
     'version': '9.0.0.1',
     'author': 'Aktiv Software',
     'website': 'www.aktivsoftware.com',
+    'license': "AGPL-3",
     'depends': ['web'],
     'description': """
     """,
