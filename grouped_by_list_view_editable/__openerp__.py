@@ -2,7 +2,8 @@
 {
     'name': 'Editable Tree View in Group By',
     'category': 'Extra Tools',
-    'version': '9.0.0.1',
+    'version': '9.0.1.0.0',
+    'summary': 'The module helps to edit the tree view even if record is grouped by',
     'author': 'Aktiv Software',
     'website': 'www.aktivsoftware.com',
     'license': "AGPL-3",
